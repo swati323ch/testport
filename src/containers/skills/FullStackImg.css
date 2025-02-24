@@ -1,0 +1,53 @@
+@keyframes rotateNut {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#p4 {
+  animation: rotateNut 20s linear infinite;
+  transform-origin: 441.5555px 249.9568px; /* Reduced center */
+}
+@keyframes rotateNut2 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#p3 {
+  animation: rotateNut2 20s linear infinite;
+  transform-origin: 96.69025px 174.2406px; /* Reduced center */
+}
+@keyframes rotateNut3 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#p2 {
+  animation: rotateNut3 20s linear infinite;
+  transform-origin: 182.398px 241.43195px; /* Reduced center with translation */
+}
+
+@keyframes rotateNut4 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#p1 {
+  animation: rotateNut4 20s linear infinite;
+  transform-origin: 174.1436px 104.265px; /* Reduced center with translation */
+}
