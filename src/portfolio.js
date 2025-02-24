@@ -16,7 +16,7 @@ const greeting = {
   subTitle:
     "a pre-final year B.Tech student at IIIT Naya Raipur, pursuing Data Science and Artificial Intelligence. A lifelong learner with a curious mind, I am a Data Science enthusiast passionate about development, machine learning and problem-solving.",
   resumeLink:
-    "https://drive.google.com/file/d/1kRldZeysEPapG-gRCns9mAXfqCSthdwN/view?usp=drive_link",
+    "https://drive.google.com/file/d/1JepBWJhU1TPzpKZhtx907mndkryQM2Wk/view?usp=drive_link",
   mail: "mailto:im.swati322003@gmail.com",
 };
 // I am A BTech PreFinalYear Student in Data Science and AI , I am Pashionate about development,Machine Learning,Deep Learning,Problem solving.And I am a Life long learner
@@ -34,7 +34,7 @@ const skills = {
       title: "My Skills involve",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Develop efficient Backend and interactive User Interfaces for web applications",
+        "⚡ Working with Machine Learning, including data analysis, feature engineering, preprocessing, model development etc.",
         "⚡ Building responsive website front end using HTML, CSS, ReactJS",
         "⚡ Familiar with managing databases like MySQL, MongoDB, and Firebase",
         "⚡ Also have experience in designing tools like Figma and Adobe Illustrator",
